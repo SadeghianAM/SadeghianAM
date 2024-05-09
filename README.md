@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - **Actor** (in my dreams) 
-- Full-time **Gamer** 🎮
-- Part-time **Content Creator** 📹
-- **Computer Engineering** Student 👨‍💻
-- In Love With **Python** & **WordPress**👀
+- 🎮 Full-time **Gamer** 
+- 📹 Part-time **Content Creator** 
+- 👨‍💻 **Computer Engineering** Student 
+- 👀 In Love With **Python** & **WordPress**
 - 🔭 I’m currently working on BaziNex.com
 - 🌱 I’m currently learning C + +
 - 📫 How to reach me: Telegram : @Sadeghian_AM
