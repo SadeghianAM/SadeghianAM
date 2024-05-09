@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- **Actor** (in my dreams) 
 - 🎮 Full-time **Gamer** 
 - 📹 Part-time **Content Creator** 
 - 👨‍💻 **Computer Engineering** Student 
