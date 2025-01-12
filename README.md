@@ -61,8 +61,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/sadeghianam/sadeghianam/output/snake.svg" alt="Snake animation" />
 
 ###
